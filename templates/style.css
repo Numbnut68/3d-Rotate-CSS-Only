@@ -59,13 +59,13 @@ header h1{
     --left: 0px;
     background: 
         var(--url) var(--left),
-        url(images/mockup.png) 0 0;
+        url(https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/459172781_3809169096019585_992006227180082745_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8Auwqk5VcTEQ7kNvgG_mnMy&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AfSnh0N3m5Zks_a6FeOGRGF&oh=00_AYCTnxfg1GPqStp3YVyw7eufs_2VImOHaASl4CLGP2nr_g&oe=66E7504F) 0 0;
     background-size: auto 100%;
     width: 210px;
     aspect-ratio: 2 / 4;
     background-blend-mode: multiply;
     transition: 1s;
-    mask-image: url(images/mockup.png);
+    mask-image: url(https://scontent-jnb2-1.xx.fbcdn.net/v/t39.30808-6/459172781_3809169096019585_992006227180082745_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8Auwqk5VcTEQ7kNvgG_mnMy&_nc_ht=scontent-jnb2-1.xx&_nc_gid=AfSnh0N3m5Zks_a6FeOGRGF&oh=00_AYCTnxfg1GPqStp3YVyw7eufs_2VImOHaASl4CLGP2nr_g&oe=66E7504F);
     mask-size: auto 100%;
 }
 .soda:nth-child(2){
